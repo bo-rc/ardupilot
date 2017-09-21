@@ -2457,3 +2457,4 @@ uncrustify_headers.cfg
 Vagrantfile
 waf
 wscript
+ardupilot.creator.user
