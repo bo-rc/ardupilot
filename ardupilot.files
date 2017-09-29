@@ -2458,3 +2458,4 @@ Vagrantfile
 waf
 wscript
 ardupilot.creator.user
+.gitignore

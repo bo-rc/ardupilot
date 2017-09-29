@@ -89,4 +89,5 @@ tags
 terrain/
 test.ArduCopter/*
 ardupilot.creator.user
-
+*.creator.*
+*.autosave
