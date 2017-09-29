@@ -88,5 +88,5 @@ status.txt
 tags
 terrain/
 test.ArduCopter/*
-*.creator.*
-*.autosave
+ardupilot.creator.user
+
