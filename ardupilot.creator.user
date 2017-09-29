@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
+<<<<<<< fd4b89097388c62a80a78e7cbffb01756c7be3cd
 use local path as the file system.
+=======
+<!-- Written by QtCreator 3.5.1, 2017-09-20T23:38:06. -->
+>>>>>>> local filesystem, update
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
