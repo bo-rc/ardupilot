@@ -19,7 +19,7 @@ static uint32_t last_get_storage_us;
 static uint64_t start_time;
 
 // location of virtual eeprom in Linux filesystem
-#define STORAGE_DIR "/var/APM"
+#define STORAGE_DIR "./var/APM"
 #define STORAGE_FILE STORAGE_DIR "/" SKETCHNAME ".stg"
 
 extern const char *get_ipv4_broadcast(void);
